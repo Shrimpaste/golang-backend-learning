@@ -1,5 +1,9 @@
 # Patient CRUD Mini
 
+## 演示
+
+[Patient CRUD Mini 代码演示.html](<Patient CRUD Mini 代码演示.html>) 由 Agent 创建，用于模拟展示项目的代码和请求流程，方便演示与学习。下载后用浏览器打开即可。
+
 ## 启动
 
 需要 Go、Docker。以下命令使用 PowerShell，在本目录运行：
